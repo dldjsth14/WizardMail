@@ -1,0 +1,16 @@
+{
+  "mails": [
+    {
+      "id": "welcome-arcane-2026",
+      "title": "비전 마법사 키우기에 오신 것을 환영합니다!",
+      "body": "첫걸음을 응원하는 선물입니다.",
+      "diamonds": 20000,
+      "tickets": 0,
+      "gold": 0,
+      "hpPotions": 0,
+      "soulStones": 0,
+      "sentUtc": "2026-09-01T00:00:00Z",
+      "expireUtc": ""
+    }
+  ]
+}
